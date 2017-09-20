@@ -1,3 +1,8 @@
+/**
+ * @author rajeshwar
+ * @created_date Sep 20, 2017
+ */
+
 package com.javabasics.assignment;
 
 /*Create Instance variable ix & iy and static sx & sy variables within class VariablesMethods 
