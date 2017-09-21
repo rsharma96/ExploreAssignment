@@ -7,7 +7,7 @@ package com.javabasics.assignment;
 
 public class Average2 {
 
-	public double calculateTotal(double val1, double val2) {
+	public static double calculateTotal(double val1, double val2) {
 
 		double total = val1 + val2;
 
